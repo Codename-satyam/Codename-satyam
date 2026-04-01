@@ -46,29 +46,29 @@ Tools       : Git | GitHub | VS Code
 
 ## 📊 SYSTEM ANALYTICS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api?Codename-Satyam=YOUR_Codename-Satyam\&show_icons=true\&theme=chartreuse-dark)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=chartreuse-dark)
+![Streak](https://streak-stats.demolab.com/?user=YOUR_Codename-Satyam\&theme=chartreuse-dark)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=chartreuse-dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?Codename-Satyam=YOUR_Codename-Satyam\&layout=compact\&theme=chartreuse-dark)
 
 ---
 
 ## 🐍 ACTIVITY TRACKER
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YOUR_Codename-Satyam/YOUR_Codename-Satyam/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=matrix)
+![Trophies](https://github-profile-trophy.vercel.app/?Codename-Satyam=YOUR_Codename-Satyam\&theme=matrix)
 
 ---
 
 ## 👁️ VISITOR LOG
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=00ff00\&style=flat)
+![Visitors](https://komarev.com/ghpvc/?Codename-Satyam=YOUR_Codename-Satyam\&color=00ff00\&style=flat)
 
 ---
 
