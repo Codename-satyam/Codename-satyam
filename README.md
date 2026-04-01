@@ -1,6 +1,6 @@
 # 🟢 SYSTEM BOOTING...
 
-```bash
+```bash id="zq1w2x"
 > Initializing profile...
 > Loading developer data...
 > Access granted ✅
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 USER PROFILE
 
-```bash
+```bash id="u1v2w3"
 Name        : Satyam Anand
 Role        : React Developer / QA Engineer (in progress)
 Location    : India
@@ -24,7 +24,7 @@ Status      : Grinding 🚀
 
 ## ⚙️ TECH STACK
 
-```bash
+```bash id="a9b8c7"
 Languages   : C++ | Java | Python
 Frontend    : React.js | HTML | CSS | SCSS
 Backend     : Laravel | Firebase
@@ -35,7 +35,7 @@ Tools       : Git | GitHub | VS Code
 
 ## 📂 PROJECT DATABASE
 
-```bash
+```bash id="p0o9i8"
 [1] QuickPick      -> E-commerce (Groceries)
 [2] Anibuy         -> Anime Merchandise Store
 [3] Resume Builder -> Custom CV Generator
@@ -46,44 +46,33 @@ Tools       : Git | GitHub | VS Code
 
 ## 📊 SYSTEM ANALYTICS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Codename-satyam\&show_icons=true\&theme=chartreuse-dark)
-
-![Streak](https://streak-stats.demolab.com/?user=Codename-satyam\&theme=chartreuse-dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codename-satyam\&layout=compact\&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Codename-satyam\&show_icons=true\&theme=chartreuse-dark\&cache_seconds=1800)
 
 ---
 
-## 🐍 ACTIVITY TRACKER
+## 🧠 CURRENT MISSION
 
-![Snake animation](https://github.com/Codename-satyam/Codename-satyam/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Codename-satyam\&theme=matrix)
-
----
-
-## 👁️ VISITOR LOG
-
-![Visitors](https://komarev.com/ghpvc/?username=Codename-satyam\&color=00ff00\&style=flat)
+```bash id="m1n2b3"
+> Learning Advanced DSA
+> Preparing for Tech Interviews
+> Building Real-World Projects
+> Improving Testing Skills
+```
 
 ---
 
 ## 🌐 CONNECT
 
-```bash
-LinkedIn  : YOUR_LINKEDIN_LINK
-Portfolio : YOUR_PORTFOLIO_LINK
+```bash id="l4k5j6"
+LinkedIn  : https://www.linkedin.com/in/satyam-anand33/
+Portfolio : https://os-portfolio-inky.vercel.app/
 ```
 
 ---
 
 ## ⚡ FUN FACT
 
-```bash
+```bash id="f7g8h9"
 > I debug faster with music 🎧
 > Coffee level = critical ☕
 > Bugs fear me (sometimes 😅)
@@ -91,7 +80,7 @@ Portfolio : YOUR_PORTFOLIO_LINK
 
 ---
 
-```bash
-> SYSTEM STATUS: RUNNING
+```bash id="end999"
+> SYSTEM STATUS: STABLE ✅
 > LAST UPDATE: 2026
 ```
